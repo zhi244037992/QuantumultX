@@ -25,7 +25,7 @@ let YouthBody=[];
         bodys=articlebodyVal;
     }
      $.setdata(bodys,'zqgetbody_body')
-     $.msg('','',`添加阅读请求: 成功🎉,当前body${YouthBody.length+1}`)
+     $.msg('','',`添加阅读请求: 成功,当前body${YouthBody.length+1}`)
      }
    }
 
